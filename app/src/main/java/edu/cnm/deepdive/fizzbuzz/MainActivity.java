@@ -1,7 +1,8 @@
 package edu.cnm.deepdive.fizzbuzz;
 
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 import android.widget.ToggleButton;
 import java.util.Random;
